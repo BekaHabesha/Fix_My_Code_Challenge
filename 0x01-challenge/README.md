@@ -97,6 +97,18 @@ You should not recode everything, just fix it!<br>
 
 ##
 
+<H1><ins>More Info</ins> :floppy_disk:</H1>
+
+<H2>Manual QA Review :heavy_check_mark:</H2>
+
+**It is your responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
+
+<p align="center">
+  <img src="https://browserstack.wpenginepowered.com/wp-content/uploads/2022/08/code-review.png" />
+  <img src="https://www.collidu.com/media/catalog/product/img/2/9/29de87a497ce019be23b34408140793be5d57442f76d2ea49dd1bace4df37593/code-review-slide1.png" />
+</p>
+###
+
 ## <ins>**PROJECT_TITLE</ins>:**  🔠 [**0x01. Fix my code**](https://intranet.alxswe.com/projects/375) 🔡
 
 ## <ins>**GITHUB_REPOSITORY</ins>:** 💾 [**Fix_My_Code_Challenge**](https://github.com/BekaHabesha/Fix_My_Code_Challenge) 🗂 
